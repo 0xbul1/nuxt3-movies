@@ -1,6 +1,7 @@
 <template>
+  pages/index.vue
   <NuxtLayout>
-<NuxtLayout name="custom">
+    <NuxtLayout name="custom">
      <div>
       <NuxtLink to="/testlink1">
         <button style="width:100%;height:500px;">testlink1</button>
